@@ -8,7 +8,6 @@ def solve():
             compt+=1
         if palindrome(a)==False:
             lych.append(i)
-    print(lych)
     return len(lych)
             
             
